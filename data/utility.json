@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "CG Books (instagram)",
+    "title": "Livros novos e usados (em inglês ou português)",
+    "whatsapp": "98876877",
+    "website": "https://www.instagram.com/bookcg/",
+    "images": ["0.png"],
+    "building": "",
+    "apto": "",
+    "category": "vip"
+  },
+  {
+    "id": 96528472,
+    "name": "Nathália",
+    "title": "Chocolate Quente Maravilhoso",
+    "whatsapp": "96528472",
+    "website": null,
+    "images": [],
+    "building": "",
+    "apto": "",
+    "category": "food"
+  },
+  {
+    "id": 87361294,
+    "name": "Romero",
+    "title": "Amendoim Crocante do Romero",
+    "whatsapp": "87361294",
+    "website": null,
+    "images": ["0.png", "1.png", "2.jpeg"],
+    "building": "",
+    "apto": "",
+    "category": "food"
+  },
+  {
+    "id": 81045439,
+    "name": "Rayane",
+    "title": "Sobrancelhas pra arrasar",
+    "whatsapp": "81045439",
+    "website": null,
+    "images": [],
+    "building": "F",
+    "apto": "",
+    "category": "beauty"
+  },
+  {
+    "id": 88239524,
+    "name": "Adelma",
+    "title": "Unhas Impecáveis",
+    "whatsapp": "88239524",
+    "website": null,
+    "images": ["0.jpeg"],
+    "building": "",
+    "apto": "",
+    "category": "beauty"
+  },
+  {
+    "id": 88754412,
+    "name": "Wilma Freire",
+    "title": "Utilidades domésticas",
+    "whatsapp": "88754412",
+    "website": null,
+    "images": ["0.jpeg", "1.jpeg", "2.jpeg"],
+    "building": "G",
+    "apto": "101",
+    "category": "house"
+  },
+  {
+    "id": 86216060,
+    "name": "Guigui Festas",
+    "title": "Pula pula, piscina de bolinhas, algodão doce, pipoca e crepe",
+    "whatsapp": "86216060",
+    "website": null,
+    "images": ["0.jpeg", "1.jpeg"],
+    "building": "",
+    "apto": "",
+    "category": "party"
+  },
+  {
+    "id": 88846166,
+    "name": "Fábio",
+    "title": "Uber do JB2",
+    "whatsapp": "88846166",
+    "website": null,
+    "images": [],
+    "building": "",
+    "apto": "",
+    "category": "party"
+  },
+  {
+    "id": 88436694,
+    "name": "Roberio",
+    "title": "Água mineral e gás",
+    "whatsapp": "88436694",
+    "website": null,
+    "images": [],
+    "building": null,
+    "apto": null,
+    "category": "food"
+  },
+  {
+    "id": 87009268,
+    "name": "Marcio",
+    "title": "Serviços de antenas",
+    "whatsapp": "87009268",
+    "website": null,
+    "images": [],
+    "building": "",
+    "apto": "",
+    "category": "house"
+  },
+  {
+    "id": 87805059,
+    "name": "Murilo",
+    "title": "Serviços de vidraçaria",
+    "whatsapp": "87805059",
+    "website": null,
+    "images": [],
+    "building": null,
+    "apto": null,
+    "category": "house"
+  },
+  {
+    "id": 99424621,
+    "name": "Connect (informar indicado por Joeffison)",
+    "title": "Internet",
+    "whatsapp": "99424621",
+    "website": null,
+    "images": [],
+    "building": null,
+    "apto": null,
+    "category": "house"
+  },
+  {
+    "id": 88257000,
+    "name": "George Vidal",
+    "title": "Síndico",
+    "whatsapp": "88257000",
+    "website": null,
+    "images": ["0.jpeg"],
+    "building": "",
+    "apto": "",
+    "category": "indoor"
+  },
+  {
+    "id": 87126986,
+    "name": "Ayris Raquel",
+    "title": "Admin da Atitude",
+    "whatsapp": "87126986",
+    "website": null,
+    "images": ["0.jpeg"],
+    "building": null,
+    "apto": null,
+    "category": "indoor"
+  }
+]
